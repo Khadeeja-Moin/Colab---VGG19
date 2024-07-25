@@ -1,0 +1,2 @@
+In this, I tried to convert Image data generator into Numpy Arrays which caused a problem.
+In next attempt, I have to try to convert data to numpy array first, then perform preprocessing.
